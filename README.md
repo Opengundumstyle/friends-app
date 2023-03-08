@@ -1,2 +1,4 @@
 # friends
-test
+## techstack 
+- ruby on rails
+- bootstrap
